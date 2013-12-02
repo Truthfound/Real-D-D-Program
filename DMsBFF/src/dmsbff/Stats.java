@@ -146,11 +146,11 @@ public class Stats extends javax.swing.JFrame {
 
         jLabel7.setText("+ ");
 
-        jTextField6.setText("Deflect.");
+        jTextField6.setText("Deflect");
 
         jLabel8.setText("+ ");
 
-        jTextField7.setText("Misc.");
+        jTextField7.setText("Misc");
 
         jLabel9.setText("= ");
 
@@ -167,7 +167,7 @@ public class Stats extends javax.swing.JFrame {
 
         jLabel13.setText("+");
 
-        jTextField8.setText("Misc. Mod");
+        jTextField8.setText("Misc Mod");
 
         jLabel14.setText("=");
 
@@ -192,7 +192,7 @@ public class Stats extends javax.swing.JFrame {
 
         jLabel21.setText("+");
 
-        jTextField10.setText("Misc. Mod");
+        jTextField10.setText("Misc Mod");
 
         calcwill.setText("Calculate!");
         calcwill.addActionListener(new java.awt.event.ActionListener() {
@@ -209,7 +209,7 @@ public class Stats extends javax.swing.JFrame {
 
         jLabel23.setText("+");
 
-        jTextField13.setText("Misc. Mod");
+        jTextField13.setText("Misc Mod");
 
         calcref.setText("Calculate!");
         calcref.addActionListener(new java.awt.event.ActionListener() {
@@ -226,7 +226,7 @@ public class Stats extends javax.swing.JFrame {
 
         jLabel25.setText("+");
 
-        jTextField16.setText("Misc. Mod");
+        jTextField16.setText("Misc Mod");
 
         calcfort.setText("Calculate!");
         calcfort.addActionListener(new java.awt.event.ActionListener() {
@@ -367,7 +367,7 @@ public class Stats extends javax.swing.JFrame {
                                 .addComponent(jLabel9)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jLabel10)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 33, Short.MAX_VALUE)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 41, Short.MAX_VALUE)
                                 .addComponent(calcac))))
                     .addGroup(StatsLayout.createSequentialGroup()
                         .addComponent(jLabel11)

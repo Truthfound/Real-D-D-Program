@@ -95,7 +95,7 @@
                                   <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
                                   <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace pref="33" max="32767" attributes="0"/>
+                                  <EmptySpace pref="41" max="32767" attributes="0"/>
                                   <Component id="calcac" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
@@ -417,7 +417,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField6">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Deflect."/>
+            <Property name="text" type="java.lang.String" value="Deflect"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel8">
@@ -427,7 +427,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField7">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Misc."/>
+            <Property name="text" type="java.lang.String" value="Misc"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel9">
@@ -460,7 +460,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField8">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Misc. Mod"/>
+            <Property name="text" type="java.lang.String" value="Misc Mod"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel14">
@@ -513,7 +513,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField10">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Misc. Mod"/>
+            <Property name="text" type="java.lang.String" value="Misc Mod"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="calcwill">
@@ -546,7 +546,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField13">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Misc. Mod"/>
+            <Property name="text" type="java.lang.String" value="Misc Mod"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="calcref">
@@ -579,7 +579,7 @@
         </Component>
         <Component class="javax.swing.JTextField" name="jTextField16">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Misc. Mod"/>
+            <Property name="text" type="java.lang.String" value="Misc Mod"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="calcfort">
